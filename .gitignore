@@ -1,0 +1,7 @@
+  
+*.swp
+*.swo
+*.t_
+tags
+local/
+.vscode/

@@ -57,6 +57,7 @@ ngx.print('This line will not be executed')
 
 Output:
 
+![Screenshot](https://raw.githubusercontent.com/lindowx/lua-resty-vardump/master/screenshots/screenshot1.png)
 
 Methods
 =======

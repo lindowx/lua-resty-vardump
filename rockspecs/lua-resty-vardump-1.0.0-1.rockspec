@@ -1,8 +1,7 @@
 package = "lua-resty-vardump"
 version = "1.0.0-1"
 source = {
-	url = "git@github.com:lindowx/lua-resty-vardump.git",
-	tag = "v1.0.0"
+	url = "https://github.com/lindowx/lua-resty-vardump/archive/v1.0.0.tar.gz"
 }
 description = {
 	summary = "A debug tool for the Openresty/ngx_lua",

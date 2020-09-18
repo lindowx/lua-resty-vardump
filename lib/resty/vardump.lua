@@ -12,7 +12,7 @@ local pcall = pcall
 
 module(...)
 
-_VERSION = '1.0.0'
+_VERSION = '1.0.2'
 
 send_content_type_header = true
 html = true
